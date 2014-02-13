@@ -7,7 +7,7 @@ class Player:
 p = Player("harry")
 
 print (p)
-p.powers = {1,2,3,4,5}
+p.powers = {1,2,3,4,5,6}
 print (p.powers)
 #print (p.powers.contains(1))
 
